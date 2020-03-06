@@ -12,6 +12,8 @@ namespace Kalkylatorn
 {
     public partial class Form1 : Form
     {
+
+        //Hej
         public Form1()
         {
             InitializeComponent();
